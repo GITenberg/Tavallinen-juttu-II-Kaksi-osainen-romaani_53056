@@ -1,5 +1,8 @@
 _repo: Tavallinen-juttu-II-Kaksi-osainen-romaani_53056
 _version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Goncharov, Ivan Aleksandrovich
@@ -10,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2418
     wikipedia: http://en.wikipedia.org/wiki/Ivan_Goncharov
 description: Translation of part 2 of Обыкнове́нная исто́рия.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/53056#Tavallinen-juttu-II-Kaksi-osainen-romaani
 gutenberg_issued: '2016-09-16'
 gutenberg_type: Text
 identifiers:
